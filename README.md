@@ -4,7 +4,7 @@
 
 A Security Researcher primarily specializing in Smart Contract Security.
 
-## Bug Bounty
+## Bug Bounties
 
 * [AsyncArt](https://gist.github.com/ayeslick/02fcaaca9ed87555652464462438ba48) - CRITICAL
 
