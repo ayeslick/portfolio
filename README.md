@@ -1,9 +1,5 @@
 # Ayeslick Portfolio
 
-## About Ayeslick
-
-A Security Researcher primarily specializing in Smart Contract Security.
-
 ## Blogs
 * [Two Bugs, One Contract](https://mirror.xyz/0x7c9228520C78fcF3143C55dde4F4103517214574/XYhrRg4_vYHliAIh6MB-dSplB6_5gACQqkiLwEhU4VA)
 
