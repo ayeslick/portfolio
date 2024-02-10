@@ -11,4 +11,6 @@
 
 * [PartyDAO II](https://gist.github.com/ayeslick/f27cecd9d6d5488ced7c52035bcbf257) - MEDIUM
 
-* [PartyDAO III](https://gist.github.com/ayeslick/c70ad2a78971631064c512878cb24613) - EDGE:MEDIUM (OOS)
+* [PartyDAO III](https://gist.github.com/ayeslick/c70ad2a78971631064c512878cb24613) - EDGE:MEDIUM 
+
+* [PartyDAOIV](https://gist.github.com/ayeslick/c09839724cf7c679178357bde0ac6d78) - CRITICAL 
