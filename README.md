@@ -13,4 +13,10 @@
 
 * [PartyDAO III](https://gist.github.com/ayeslick/c70ad2a78971631064c512878cb24613) - EDGE:MEDIUM 
 
-* [PartyDAOIV](https://gist.github.com/ayeslick/c09839724cf7c679178357bde0ac6d78) - CRITICAL 
+* [PartyDAO IV](https://gist.github.com/ayeslick/c09839724cf7c679178357bde0ac6d78) - CRITICAL
+
+* [SuperRare I](https://gist.github.com/ayeslick/956d97ef62e87584c7548ac0991b7fe3) - CRITICAL
+
+* [SuperRare II](https://gist.github.com/ayeslick/e2b573252445dad4a8c7c3737c38024d) - CRITICAL
+
+* [SuperRare III](https://gist.github.com/ayeslick/b91747ab21d7155566f9e0ba02f12e7e) - CRITICAL
