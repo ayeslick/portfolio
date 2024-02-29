@@ -17,7 +17,7 @@
 
 * [PartyDAO IV](https://gist.github.com/ayeslick/c09839724cf7c679178357bde0ac6d78) - CRITICAL
 
-* [Party V](https://gist.github.com/ayeslick/9ee6ff2201a42e52905e23f1300d0519) - CRITICAL
+* [PartyDAO V](https://gist.github.com/ayeslick/9ee6ff2201a42e52905e23f1300d0519) - CRITICAL
 
 * [SuperRare I](https://gist.github.com/ayeslick/956d97ef62e87584c7548ac0991b7fe3) - CRITICAL
 
