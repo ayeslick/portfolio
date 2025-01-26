@@ -8,6 +8,10 @@
 
 * [AsyncArt](https://gist.github.com/ayeslick/02fcaaca9ed87555652464462438ba48)
 
+### MoonCat
+
+* [MoonCat](https://gist.github.com/ayeslick/ae61b92aa555633388c1f460638c4d51)
+
 ### PartyDAO
 
 * [PartyDAO I](https://gist.github.com/ayeslick/efc6964f58a418c1bafcff2c56d213b0)
