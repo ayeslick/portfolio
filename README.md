@@ -31,6 +31,12 @@
 
 * [SuperRare III](https://gist.github.com/ayeslick/b91747ab21d7155566f9e0ba02f12e7e)
 
+* [SuperRare IV](https://gist.github.com/ayeslick/35ee2e35d8e675a58338bf3e8c98e300)
+
+* [SuperRare V](https://gist.github.com/ayeslick/cb4e1bf33eda5fa83f1c19938ecd457e)
+
+* [SuperRare VI](https://gist.github.com/ayeslick/a8de56824711b36adfa3e0c3ada944a3)
+
 ### Zora
 
 * [Zora](https://gist.github.com/ayeslick/d8ab975ac072d37838fe4a44a7f80a90)
