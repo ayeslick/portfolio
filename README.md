@@ -2,10 +2,6 @@
 
 * [Two Bugs, One Contract](https://mirror.xyz/0x7c9228520C78fcF3143C55dde4F4103517214574/XYhrRg4_vYHliAIh6MB-dSplB6_5gACQqkiLwEhU4VA)
 
-## SPEARBIT
-
-* [Redacted Cartel Security Review](https://github.com/redacted-cartel/audits/blob/master/dinero-pirex-eth/pirex-eth/spearbit.pdf)
-
 ## BUG BOUNTIES
 
 ### AsyncArt
@@ -40,4 +36,6 @@
 
 * [Foundation](https://gist.github.com/ayeslick/0eddad50cd5148c76945978a0df8aebe)
 
+## Spearbit
 
+* [Redacted Cartel Security Review](https://github.com/redacted-cartel/audits/blob/master/dinero-pirex-eth/pirex-eth/spearbit.pdf)
