@@ -1,6 +1,7 @@
 ## BLOG
 
 * [Two Bugs, One Contract](https://mirror.xyz/0x7c9228520C78fcF3143C55dde4F4103517214574/XYhrRg4_vYHliAIh6MB-dSplB6_5gACQqkiLwEhU4VA)
+  
 * [Crack In The Foundation](https://mirror.xyz/0x7c9228520C78fcF3143C55dde4F4103517214574/NB4C_n65Y37Kpp5-eCi6uTGdnn1__dCOqJ-6xwKmGUM)
 
 ## BUG BOUNTIES
@@ -44,7 +45,9 @@
 
 ### Zora
 
-* [Zora](https://gist.github.com/ayeslick/d8ab975ac072d37838fe4a44a7f80a90)
+* [Zora I](https://gist.github.com/ayeslick/d8ab975ac072d37838fe4a44a7f80a90)
+
+* [Zora II](https://gist.github.com/ayeslick/0276c4cee7b67116e3c540a54ab05a72)
 
 ## Immunefi
 
