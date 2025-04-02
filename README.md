@@ -4,6 +4,8 @@
   
 * [Crack In The Foundation](https://mirror.xyz/0x7c9228520C78fcF3143C55dde4F4103517214574/NB4C_n65Y37Kpp5-eCi6uTGdnn1__dCOqJ-6xwKmGUM)
 
+* [This. Is. Not. A. Bug. Zora’s Yoink Yoink](https://mirror.xyz/0x7c9228520C78fcF3143C55dde4F4103517214574/R5JmNhg7DJ0M94RYMT5aw3Bb_V5t3yNeu9w71pDOCwc)
+
 ## BUG BOUNTIES
 
 #### AsyncArt
