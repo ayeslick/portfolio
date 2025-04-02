@@ -39,6 +39,8 @@
 
 * [An Operator can drain all of the ETH from SuperRareBazaar](https://gist.github.com/ayeslick/b91747ab21d7155566f9e0ba02f12e7e) - Critical
 
+* [An operator is able to drain SuperRareMarketAuctionV2 of its entire ETH balance via a flaw in tokenPriceFeeIncluded()](https://gist.github.com/ayeslick/6852a26cf3ae561f4c53bf4454088333) - Critical 
+
 * [Prevents legitimate customers from outbidding the operator](https://gist.github.com/ayeslick/35ee2e35d8e675a58338bf3e8c98e300) - Medium
 
 * [The burn() is callable even though it’s wrapped by the deleteToken()](https://gist.github.com/ayeslick/cb4e1bf33eda5fa83f1c19938ecd457e) - Medium
