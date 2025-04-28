@@ -68,6 +68,6 @@ I focus on identifying deep structural risks to protect real user assets long be
 ## Contact
 
 - **Twitter:** [@ayeslick](https://twitter.com/aye_shilck)  
-- **Email:** audits at ayeslickaudis dot com
+- **Email:** audits at ayeslickaudits dot com
 
 ---
