@@ -41,7 +41,7 @@ I focus on identifying deep structural risks to protect real user assets long be
 | PartyDAO | DOS locks NFT in AuctionHouse | High | [View](https://gist.github.com/ayeslick/f27cecd9d6d5488ced7c52035bcbf257) |
 | PartyDAO | Steal ETH via ERC-2981 royalties | Medium | [View](https://gist.github.com/ayeslick/c70ad2a78971631064c512878cb24613) |
 | PartyDAO | Steal NOUNs via ArbitraryProposals | Medium | [View](https://gist.github.com/ayeslick/c09839724cf7c679178357bde0ac6d78) |
-| PartyDAO | Party NFT theft (Severe) | Severe | [View](https://gist.github.com/ayeslick/9ee6ff2201a42e52905e23f1300d0519) |
+| PartyDAO | Party NFT theft | High | [View](https://gist.github.com/ayeslick/9ee6ff2201a42e52905e23f1300d0519) |
 | Sablier | Prevent sender from cancelling stream | Medium | [View](https://gist.github.com/ayeslick/c0cb3dab96b84e942cbf8e2e63c1bb96) |
 | SuperRare | Operator drains Bazaar ETH | Critical | [View](https://gist.github.com/ayeslick/956d97ef62e87584c7548ac0991b7fe3) |
 | SuperRare | Operator buys NFTs with valueless ERC20s | Critical | [View](https://gist.github.com/ayeslick/e2b573252445dad4a8c7c3737c38024d) |
