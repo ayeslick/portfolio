@@ -14,8 +14,6 @@ ayeslick audits is a boutique smart contract security firm with a strong record 
 - [**Code4rena**](https://code4rena.com/@ayeslick)
 - Independent Responsible Disclosures
 
-I focus on identifying deep structural risks to protect real user assets long before malicious actors can exploit them.
-
 ---
 
 ## Featured Highlights
