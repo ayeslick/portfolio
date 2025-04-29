@@ -12,7 +12,6 @@ ayeslick audits is a boutique smart contract security firm with a strong record 
 - [**Immunefi**](https://gist.github.com/ayeslick/0eddad50cd5148c76945978a0df8aebe)
 - [**Spearbit**](https://github.com/redacted-cartel/audits/blob/master/dinero-pirex-eth/pirex-eth/spearbit.pdf)
 - [**Code4rena**](https://code4rena.com/@ayeslick)
-- Independent Responsible Disclosures
 
 ---
 
