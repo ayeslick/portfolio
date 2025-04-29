@@ -7,7 +7,8 @@
 
 ## About Me
 
-I have uncovered critical vulnerabilities across web3 and reported them via:
+Ayeslick Audits is a boutique smart contract security firm with a strong record of identifying high-impact vulnerabilities across top-tier NFT and DeFi protocols since 2022. 
+
 - [**Immunefi**](https://gist.github.com/ayeslick/0eddad50cd5148c76945978a0df8aebe)
 - [**Spearbit**](https://github.com/redacted-cartel/audits/blob/master/dinero-pirex-eth/pirex-eth/spearbit.pdf)
 - [**Code4rena**](https://code4rena.com/@ayeslick) (2022)
