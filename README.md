@@ -1,7 +1,7 @@
 # ayeslick audits
 
 ![Available for Audits](https://img.shields.io/badge/Status-Open%20for%20Audits-brightgreen)
-![Funds Protected: $1.2M](https://img.shields.io/badge/Funds%20Protected-%241.2M-success)
+![Funds Protected: $1.2M](https://img.shields.io/badge/Funds%20Rescued-%241.2M-success)
 
 ---
 
